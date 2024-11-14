@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "userName": "username",
+      "firstName": "mohan",
+      "lastName": "gond",
+      "email": "msg@gmail.com",
+      "password": "password",
+      "role": "HR"
+    },
+    {
+      "id": 2,
+      "userName": "dd",
+      "firstName": "dd",
+      "lastName": "dd",
+      "email": "dddd@gmail.com",
+      "password": "dd",
+      "role": "HR"
+    },
+    {
+      "id": 3,
+      "userName": "dd",
+      "firstName": "dd",
+      "lastName": "dd",
+      "email": "dddd@gmail.com",
+      "password": "dd",
+      "role": "Employee"
+    }
+  ]
+}
