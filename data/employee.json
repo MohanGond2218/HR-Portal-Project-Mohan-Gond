@@ -1,0 +1,63 @@
+{
+  "employees": [
+    {
+      "employee_id": "E001",
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "johndoe@example.com",
+      "phone": "555-1234",
+      "position": "Software Engineer",
+      "department": "Engineering",
+      "hire_date": "2021-05-15",
+      "status": "Active"
+    },
+    {
+      "id": "5583",
+      "employee_id": "234",
+      "first_name": "Mohan",
+      "last_name": "Gond",
+      "email": "mohangond2218@gmail.com",
+      "phone": "4555",
+      "position": "Engineer",
+      "department": "OT",
+      "hire_date": "2024-11-13",
+      "status": "active"
+    },
+    {
+      "id": "895e",
+      "employee_id": "E1",
+      "first_name": "Mohan",
+      "last_name": "Gond",
+      "email": "mohangond2218@gmail.com",
+      "phone": "4555",
+      "position": "Engineer",
+      "department": "OT",
+      "hire_date": "2024-11-13",
+      "status": "active"
+    },
+    {
+      "id": "3d66",
+      "employee_id": "222",
+      "first_name": "Ram",
+      "last_name": "Godn",
+      "email": "mohangond2218@gmail.com",
+      "phone": "4555",
+      "position": "Engineer",
+      "department": "OT",
+      "hire_date": "2024-11-12",
+      "status": "active"
+    },
+    {
+      "id": "4186",
+      "employee_id": "E23",
+      "first_name": "John",
+      "last_name": "Peter",
+      "email": "john@gmail.com",
+      "phone": "+919333",
+      "position": "Engineer",
+      "department": "IT",
+      "hire_date": "2024-11-12",
+      "status": "Active"
+    }
+  ]
+}

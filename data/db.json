@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "userName": "username",
+      "firstName": "mohan",
+      "lastName": "gond",
+      "email": "msg@gmail.com",
+      "password": "password",
+      "role": "HR"
+    },
+    {
+      "id": 2,
+      "userName": "dd",
+      "firstName": "dd",
+      "lastName": "dd",
+      "email": "dddd@gmail.com",
+      "password": "dd",
+      "role": "HR"
+    },
+    {
+      "id": 3,
+      "userName": "dd",
+      "firstName": "dd",
+      "lastName": "dd",
+      "email": "dddd@gmail.com",
+      "password": "dd",
+      "role": "Employee"
+    },
+    {
+      "id": 4,
+      "userName": "PeterMathew18",
+      "firstName": "Peter",
+      "lastName": "Mathee",
+      "email": "petermathew22@gmail.com",
+      "password": "dd",
+      "role": "Employee"
+    },
+    {
+      "id": 5,
+      "userName": "DavidSingh12",
+      "firstName": "David",
+      "lastName": "Singh",
+      "email": "davidsingh23@gmail.com",
+      "password": "dd",
+      "role": "HR"
+    }
+  ]
+}

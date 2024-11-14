@@ -1,0 +1,48 @@
+{
+  "leaves": [
+    {
+      "id": "9b21",
+      "leaveId": 1,
+      "userId": "3",
+      "userName": "dd",
+      "userRole": "Employee",
+      "leaveType": "Sick Leave",
+      "startDate": "2024-11-14",
+      "endDate": "2024-11-13",
+      "reason": "dd"
+    },
+    {
+      "id": "c78d",
+      "leaveId": 2,
+      "userId": "3",
+      "userName": "dd",
+      "userRole": "Employee",
+      "leaveType": "Casual Leave",
+      "startDate": "2024-11-14",
+      "endDate": "2024-11-14",
+      "reason": "ss"
+    },
+    {
+      "id": "c83a",
+      "leaveId": 3,
+      "userId": "2",
+      "userName": "dd",
+      "userRole": "HR",
+      "leaveType": "Sick Leave",
+      "startDate": "2024-11-14",
+      "endDate": "2024-11-14",
+      "reason": "dd"
+    },
+    {
+      "id": "1eca",
+      "leaveId": 4,
+      "userId": "3",
+      "userName": "dd",
+      "userRole": "Employee",
+      "leaveType": "Sick Leave",
+      "startDate": "2024-11-14",
+      "endDate": "2024-11-14",
+      "reason": "jaundies"
+    }
+  ]
+}
